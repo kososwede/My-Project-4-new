@@ -7,6 +7,7 @@ django-heroku==0.3.1
 django-materialize==1.0.1a2
 django-materialize-css==0.0.1
 django-materialize-form==0.1.1
+django-materializecss-form==1.1.17
 django-storages==1.7.2
 gunicorn==19.9.0
 httplib2==0.19.0
